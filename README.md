@@ -15,4 +15,28 @@ BlockchainSecureAudit is a cutting-edge platform designed to conduct comprehensi
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/BlockchainSecureAudit.git
+   git clone https://github.com/kashimkyari/BlockchainSecureAudit.git
+
+   Install dependencies:
+
+bash
+Copy code
+cd BlockchainSecureAudit
+pip install -r requirements.txt
+Follow the setup instructions in the documentation to deploy and utilize the platform.
+
+Usage
+To conduct a security audit, follow these steps:
+
+Deploy your smart contract or DApp on a supported blockchain network.
+Use the BlockchainSecureAudit platform to scan and analyze your code for vulnerabilities.
+Review the generated reports and take necessary actions to address identified security risks.
+Continuously monitor your smart contracts and DApps for ongoing security assurance.
+Contributing
+Contributions are welcome! Please fork the repository and submit a pull request with your improvements.
+
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+
+
